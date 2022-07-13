@@ -1,0 +1,15 @@
+{
+  "name": "sum-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/contract": "^4.5.16",
+    "express": "^4.17.1"
+  },
+  "description": ""
+}
